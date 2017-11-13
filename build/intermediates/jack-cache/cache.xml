@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/gabevansolkema/.android/build-cache/4f84fd28cdc820a044c342e84a9eba8f05948f40/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="6c877b2c372dd26a46a0fe1c0fe07f186fb2ac26">
+        <dex dex="/Users/gabevansolkema/Coding/GVSU/357/GeoCalcAndroidHw10/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-0f4f2c3a3aa33fab5d112dd6cf5cea50119fee38.jar" />
+    </item>
+    <item
+        jar="/Users/gabevansolkema/.android/build-cache/e1cadcf859e4dd0823565dcc335cc52994184c7b/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/gabevansolkema/Coding/GVSU/357/GeoCalcAndroidHw10/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-85b0ae7fda63c02eda9f26c0cc5ff5739e7567a5.jar" />
+    </item>
+    <item
+        jar="/Users/gabevansolkema/.android/build-cache/ff637ba4ac2f4b2d87809899869d5689a4e0703c/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/gabevansolkema/Coding/GVSU/357/GeoCalcAndroidHw10/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-ff9b4c4f010a401c3258ce669405e35fa0404650.jar" />
+    </item>
+    <item
+        jar="/Users/gabevansolkema/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.9.5/31b98a67bed065295ca86fab61e1b7601510a193/joda-time-2.9.5-no-tzdb.jar"
+        revision="25.0.0"
+        sha1="31b98a67bed065295ca86fab61e1b7601510a193">
+        <dex dex="/Users/gabevansolkema/Coding/GVSU/357/GeoCalcAndroidHw10/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/joda-time-2.9.5-no-tzdb-0a1e25f1dc148f090057ba764f4acd09c4b12cc5.jar" />
+    </item>
+    <item
+        jar="/Users/gabevansolkema/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0/constraint-layout-solver-1.0.0.jar"
+        revision="25.0.0"
+        sha1="90493f2ea15ff3f57416368123e5d4d180e0c6fd">
+        <dex dex="/Users/gabevansolkema/Coding/GVSU/357/GeoCalcAndroidHw10/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/constraint-layout-solver-1.0.0-d4d99f13c67e1d490621ed00cfa1fba6f2a55086.jar" />
+    </item>
+    <item
+        jar="/Users/gabevansolkema/.android/build-cache/ef7e9873d196138a04f9722ba14405c26c9a368d/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/gabevansolkema/Coding/GVSU/357/GeoCalcAndroidHw10/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-d55b4ceb34aa097c897d42b71a41b7002f852dd7.jar" />
+    </item>
+    <item
+        jar="/Users/gabevansolkema/.android/build-cache/e13bf5722768662fdea25308443118703e91d762/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/gabevansolkema/Coding/GVSU/357/GeoCalcAndroidHw10/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-ece1766510dd26045d0309efe37af9ca8b39c7b7.jar" />
+    </item>
+    <item
+        jar="/Users/gabevansolkema/.android/build-cache/4ca7fd7f47421fad894d2d58264a4002db6a7a51/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/gabevansolkema/Coding/GVSU/357/GeoCalcAndroidHw10/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-0d3871f990ff8fd9684a664bd5277cec8a29f6dd.jar" />
+    </item>
+    <item
+        jar="/Users/gabevansolkema/.android/build-cache/35292b8fec05cb00608e084362da08f47ad14f5d/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/gabevansolkema/Coding/GVSU/357/GeoCalcAndroidHw10/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-5a68afad555ff7dc405df983920ebd6c368b2d16.jar" />
+    </item>
+    <item
+        jar="/Users/gabevansolkema/.android/build-cache/79fec865286233bf52eb7d9595ca24c63303ee4a/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/gabevansolkema/Coding/GVSU/357/GeoCalcAndroidHw10/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-63b603bfeabeee342fa84d7d62c659a0b175a2cb.jar" />
+    </item>
+    <item
+        jar="/Users/gabevansolkema/.android/build-cache/c0e888f7534f65262d2c66832c736da724e4d290/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="8b0231ff1692ac844199e0287d97ee99fb2512b4">
+        <dex dex="/Users/gabevansolkema/Coding/GVSU/357/GeoCalcAndroidHw10/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-a1f9c24c7f6e7a5e916f2b755195c653364425a2.jar" />
+    </item>
+    <item
+        jar="/Users/gabevansolkema/.android/build-cache/03eb5609c9868f177c59dc966cb7abb98ef2ec8c/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/gabevansolkema/Coding/GVSU/357/GeoCalcAndroidHw10/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-cbe367d8059898d9d784e672a3591096ec9abfc1.jar" />
+    </item>
+    <item
+        jar="/Users/gabevansolkema/.android/build-cache/d5306fca6cb4486393065c4f9ae87549db18e68c/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/gabevansolkema/Coding/GVSU/357/GeoCalcAndroidHw10/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-5ff6026f6cdc9dff52537b9a7e5fbbc6bcffbfda.jar" />
+    </item>
+    <item
+        jar="/Users/gabevansolkema/.android/build-cache/921fa79e563c8a7a43aa6bff6ff8c5f78901e8eb/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/gabevansolkema/Coding/GVSU/357/GeoCalcAndroidHw10/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-dbba9f29e4545be64454e2eaf0cc619a38412620.jar" />
+    </item>
+    <item
+        jar="/Users/gabevansolkema/Library/Android/sdk/platforms/android-25/optional/org.apache.http.legacy.jar"
+        revision="25.0.0"
+        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
+        <dex dex="/Users/gabevansolkema/Coding/GVSU/357/GeoCalcAndroidHw10/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/org.apache.http.legacy-9d38505fb870ab82788fb117e160bf5cd556d648.jar" />
+    </item>
+    <item
+        jar="/Users/gabevansolkema/.android/build-cache/17e8314bebf0807004d3ce6fe2d563454bcc8585/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/gabevansolkema/Coding/GVSU/357/GeoCalcAndroidHw10/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-7326906208f3160b612260edba9e91274c97476c.jar" />
+    </item>
+    <item
+        jar="/Users/gabevansolkema/.android/build-cache/8c525637df051d3c5f7edbf87571b90171ce2eb2/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/gabevansolkema/Coding/GVSU/357/GeoCalcAndroidHw10/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-712f834718e6537c58b11ca4fbb99419819cbba3.jar" />
+    </item>
+    <item
+        jar="/Users/gabevansolkema/Library/Android/sdk/platforms/android-25/android.jar"
+        revision="25.0.0"
+        sha1="712a0312fe844a21a1b3812fa960c363a1578984">
+        <dex dex="/Users/gabevansolkema/Coding/GVSU/357/GeoCalcAndroidHw10/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/android-2641abdbc1a2fc8833afbeba611fc57fd3341e57.jar" />
+    </item>
+    <item
+        jar="/Users/gabevansolkema/.android/build-cache/ace9f67242b08f94b7079679a8b33257c1eedc6e/output/jars/classes.jar"
+        revision="25.0.0"
+        sha1="d20672631818754557255886d3feb43e7fe75a66">
+        <dex dex="/Users/gabevansolkema/Coding/GVSU/357/GeoCalcAndroidHw10/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-6e13977977421e565ea659bbd05ea9f92cd4360a.jar" />
+    </item>
+    <item
+        jar="/Users/gabevansolkema/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        revision="25.0.0"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/gabevansolkema/Coding/GVSU/357/GeoCalcAndroidHw10/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/support-annotations-25.1.1-745c706c5b0f39340e1400318708341c648613a5.jar" />
+    </item>
+
+</items>
